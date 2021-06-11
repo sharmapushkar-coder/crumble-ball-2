@@ -18,9 +18,7 @@ function setup() {
   
 	b1=new Paper(120,280);
 	g1=new Ground(500,500,1000,20);
-    g2=new Box(550,410,10,170);
-	g3=new Box(750,410,10,170);
-	g4=new Box(650,490,200,10);
+
 }
 
 function draw(){
