@@ -22,7 +22,7 @@ function setup() {
 }
 
 function draw(){
-  background("black");
+  background("white");
   text(mouseX+":"+mouseY,400,400);
   imageMode(CENTER);
   image(img,650,380,250,250)
