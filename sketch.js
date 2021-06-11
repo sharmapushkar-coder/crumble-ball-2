@@ -28,9 +28,6 @@ function draw(){
   image(img,650,380,250,250)
   b1.display();
   g1.display();
-  g2.display();
-  g3.display();
-  g4.display();
   
 }
 function keyPressed(){
